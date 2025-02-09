@@ -1,0 +1,32 @@
+.navbar{
+    background-image: linear-gradient(deeppink, crimson);}
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    background-image: url(/ash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#card-text{
+    color: deeppink;
+    text-align:margin-left;
+    font-size: 24px;
+    padding-top: 100px;
+
+}
+#para{
+    font-size: 24px;
+    text-align: justify;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 100px;
+    color: deeppink;
+}

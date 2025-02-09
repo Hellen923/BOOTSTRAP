@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    font-family: Arial, sans-serif;
+}
+
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar{
+    background-image: linear-gradient(deeppink, crimson);
+}
+body{
+    background-image: url(/lolo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
